@@ -1,0 +1,89 @@
+* {
+    box-sizing: border-box;
+  }
+
+  /*.header-container {
+    background-image: url("images/do-work.jpg");
+    background-size: cover;
+  }*/
+
+  .nav-button {
+      display: inline-block;
+      font-family:verdana;
+      font-size: 16px;
+      text-align: center;
+      background-color: #B8B8AA;
+      color: white;
+      padding: 12px;
+      margin: 15px 10px;
+      border-radius: 6px;
+  }
+header h1 {
+  margin: 0;
+}
+
+header {
+  color: white;
+  text-align: center;
+  background-color: #586F6B;
+  margin: 0;
+}
+
+main {
+  background-color: #B8B8AA;
+  text-align: center;
+  margin: 0;
+}
+
+hr {
+    height: 112px;
+    width: 500px;
+    border: none;
+    background-image: url("images/hr-atlas.png");
+    background-size: auto;
+    background-position: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+p.center-links {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+  color: white;
+  background-color: #586F6B;
+  margin: 0;
+}
+
+p {
+  display: block;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 0;
+  text-align: justify;
+  padding-bottom: 10px;
+}
+
+ul {
+  margin-top: 0;
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-position: inside;
+  text-align: left;
+}
+
+h3 {
+  margin-bottom: 0;
+}
