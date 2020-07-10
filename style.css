@@ -33,6 +33,7 @@ main {
   background-color: #B8B8AA;
   text-align: center;
   margin: 0;
+  list-style-position: inside;
 }
 
 hr {
@@ -44,12 +45,12 @@ hr {
     background-position: center;
 }
 
-.center {
+/*.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 25%;
-}
+}*/
 
 p.center-links {
   display: inline-block;
